@@ -1,2 +1,2 @@
 #!/bin/bash
-file $(ls /etc/passwd*)
+file $(ls /etc/passwd)
